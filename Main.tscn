@@ -51,10 +51,10 @@ script = ExtResource( 2 )
 follow_this_path = NodePath("../Car/sedan")
 
 [node name="Speed" type="Label" parent="."]
-margin_left = 974.332
-margin_top = 576.234
-margin_right = 1014.33
-margin_bottom = 590.234
+margin_left = 516.552
+margin_top = 573.402
+margin_right = 556.55
+margin_bottom = 587.402
 __meta__ = {
 "_edit_use_anchors_": false
 }
